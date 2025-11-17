@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**agrawalritika201-code/agrawalritika201-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ritika 👋
 
-Here are some ideas to get you started:
+### 💻 Computer Science Student | 🌱 Beginner in C & Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm just starting my coding journey and learning step by step.  
+Currently exploring **C programming, Python, Git, and GitHub** to build a strong foundation.
+
+---
+
+## 🚀 About Me
+- 🌱 Learning programming basics  
+- 💻 Practicing simple programs in C and Python  
+- 🎯 Trying to understand Git & GitHub  
+- 📘 Interested in improving skills slowly and consistently  
+- 🤝 Open to beginner-level collaboration and learning together  
+
+---
+
+## 🔧 Skills I'm Learning
+- **C Programming** (basics + practice)
+- **Python** (basic level)
+- **Git & GitHub** (very early stage) 
+
+---
+
+## 📫 Connect With Me
+You can reach me on my GitHub profile.
+
+---
+
+⭐ *I'm a beginner and excited to learn more every day!*
+
